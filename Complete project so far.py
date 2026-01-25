@@ -1,5 +1,10 @@
 #Complete project so far
 
+###
+#You need to copy this into your terminal:     pip install googletrans==4.0.0rc1
+#This program will not work otherwise
+###
+
 #Libraries
 import sqlite3
 import hashlib
@@ -429,4 +434,5 @@ class ProductInterface:
 
 # Running the interface
 # This is where the program starts running.
+
 main()
